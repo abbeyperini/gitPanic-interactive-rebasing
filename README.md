@@ -1,0 +1,1 @@
+# gitPanic-interactive-rebasing
