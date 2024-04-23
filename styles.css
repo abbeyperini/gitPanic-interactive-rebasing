@@ -20,10 +20,10 @@ button {
 
 /* Background Colors */
 
-/* button:focus {
+button:focus {
   outline: none;
   background-color: #6B65A4;
-} */
+}
 
 /* Borders on the perimeter */
 
