@@ -20,23 +20,23 @@ button {
 
 /* Background Colors */
 
-button:focus {
+/* button:focus {
   outline: none;
   background-color: #6B65A4;
-}
+} */
 
 /* Borders on the perimeter */
 
-/* button:focus {
+button:focus {
   outline: none;
   border: 4px solid #6B65A4;
-} */
+}
 
-/* button:focus {
+button:focus {
   outline: none;
   padding-left: 0;
   border-left: 4px solid #6B65A4;
-} */
+}
 
 /* Borders Inside the Perimeter (with an outline on the unfocused styles) */
 
