@@ -1,0 +1,91 @@
+button {
+  height: 40px;
+  width: 80px;
+  /* border-radius: 5px; */
+  background-color: #231942;
+  color: #FFFFFF;
+  border: none;
+  padding-left: 4px;
+  outline: #231942 solid 3px;
+  /* border: 4px solid #231942; */
+  margin: 3px;
+  /* clip-path: inset(8px 0px); */
+}
+
+/* Outlines */
+
+/* button:focus {
+  outline: #6B65A4 solid 3px;
+} */
+
+/* Background Colors */
+
+/* button:focus {
+  outline: none;
+  background-color: #6B65A4;
+} */
+
+/* Borders on the perimeter */
+
+/* button:focus {
+  outline: none;
+  border: 4px solid #6B65A4;
+} */
+
+/* button:focus {
+  outline: none;
+  padding-left: 0;
+  border-left: 4px solid #6B65A4;
+} */
+
+/* Borders Inside the Perimeter (with an outline on the unfocused styles) */
+
+button:focus {
+  border: 2px solid #6B65A4;
+}
+
+/* button:focus {
+  border-left: 4px solid #6B65A4;
+} */
+
+/* Offset Outlines */
+
+/* button:focus {
+  outline: #6B65A4 solid 3px;
+  outline-offset: 5px; 
+} */
+
+/* button:focus {
+  outline: #6B65A4 solid 4px;
+  outline-offset: -8px; 
+} */
+
+/* Box Shadows */
+
+/* button:focus {
+  outline: none;
+  -webkit-box-shadow:inset 0px 0px 0px 4px #6B65A4;
+  -moz-box-shadow:inset 0px 0px 0px 4px #6B65A4;
+  box-shadow:inset 0px 0px 0px 4px #6B65A4;
+} */
+
+/* button:focus {
+  outline: none;
+  -webkit-box-shadow: -4px 0px 0px #6B65A4;
+  -moz-box-shadow: -4px 0px 0px #6B65A4;
+  box-shadow: -4px 0px 0px #6B65A4;
+} */
+
+/* button:focus {
+  outline: none;
+  -webkit-box-shadow: inset 4px 0px 0px #6B65A4;
+  -moz-box-shadow: inset 4px 0px 0px #6B65A4;
+  box-shadow: inset 4px 0px 0px #6B65A4;
+} */
+
+/* button:focus {
+  outline: none;
+  -webkit-box-shadow: inset 20px 40px 0px #6B65A4;
+  -moz-box-shadow: inset 20px 40px 0px #6B65A4;
+  box-shadow: inset 20px 40px 0px #6B65A4;
+} */
